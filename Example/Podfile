@@ -4,6 +4,6 @@ platform :ios, '10.0'
 
 target 'SinoFindTest_Example' do
   pod 'SinoFindTest', :path => '../'
-
+  pod 'SinoFindTest' 
 
 end
